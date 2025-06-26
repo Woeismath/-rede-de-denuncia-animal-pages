@@ -58,8 +58,7 @@ function showPage(page) {
         <section class="organizacoes">
           <h2>Organizações de Resgate</h2>
           <p>Encontre abrigos e organizações de resgate de animais na sua área.</p>
-          <a href="https://www.abrigos.org.br" target="_blank">Encontre organizações aqui.</a>
-
+         
           <div class="ong">
             <h3>SOS Vida Animal</h3>
             <p>A SOS Vida Animal é uma ONG de Londrina dedicada ao resgate e cuidado de animais em situação de risco, promovendo adoções responsáveis e campanhas de castração.</p>
